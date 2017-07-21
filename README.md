@@ -2,7 +2,7 @@
 A python regular-expression based DNS server!
 
     USAGE:
-    ./fakedns.py [-h] -c Config path [-i interface IP address]
+    ./dns.py [-h] -c Config path [-i interface IP address]
 
 The dns.conf should be set the following way:
 

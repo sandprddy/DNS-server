@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """A regular-expression based DNS Server that can be used for research projects"""
 
-import pdb
 import socket
 import re
 import sys
